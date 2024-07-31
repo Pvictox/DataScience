@@ -1,0 +1,8 @@
+name: Pandas_Learning
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - jupyter
